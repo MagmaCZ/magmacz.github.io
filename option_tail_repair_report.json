@@ -1,0 +1,1245 @@
+{
+  "changed": 155,
+  "items": [
+    {
+      "id": 17,
+      "source": "Kópia súboru ZSV1.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 1476,
+      "after": "Adam říká, že vše kolem nás je nicotné a každodenní zkušenost je založena pouze na domnělém přesvědčení o tom, že věci mají nějakou podstatu. Toto přesvědčení je však odvozeno pouze z naší touhy po smyslu, nikoli z přesvědčivého poznání. Bedřich tvrdí, že naše touha po porozumění světu se odvozuje z ideálních a v ideálním světě existujících kategorií. Tyto v ideálním světě existující podstaty pak dávají světu a životu smysl a našemu konání cíl."
+    },
+    {
+      "id": 74,
+      "source": "Kópia súboru ZSV2.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 1486,
+      "after": "patrilineariát"
+    },
+    {
+      "id": 131,
+      "source": "Kópia súboru ZSV5.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 1058,
+      "after": "informátory z respondentova okolí"
+    },
+    {
+      "id": 133,
+      "source": "Kópia súboru ZSV5.pdf",
+      "question": 13,
+      "option": "D",
+      "before_length": 877,
+      "after": "jako sankci"
+    },
+    {
+      "id": 142,
+      "source": "Kópia súboru ZSV5.pdf",
+      "question": 22,
+      "option": "D",
+      "before_length": 975,
+      "after": "Myšlenka základních lidských práv a svobod a zastupitelské demokracie jako takové v sobě sice obsahuje mnohá úskalí, avšak je lepší než předchozí feudální uspořádání založené na dědičné vládě a poddanství."
+    },
+    {
+      "id": 174,
+      "source": "Kópia súboru ZSV5.pdf",
+      "question": 54,
+      "option": "D",
+      "before_length": 912,
+      "after": "Červený kříž"
+    },
+    {
+      "id": 180,
+      "source": "Kópia súboru ZSV5.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 948,
+      "after": "Když se posune křivka S doleva a křivka D zůstane neměnná, zvýší se rovnovážné množství."
+    },
+    {
+      "id": 198,
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T3_brezen.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 1151,
+      "after": "Sokratovo myšlení akcentující dialogické hledání pravdy"
+    },
+    {
+      "id": 204,
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T3_brezen.pdf",
+      "question": 24,
+      "option": "D",
+      "before_length": 720,
+      "after": "dvě třetiny senátorů"
+    },
+    {
+      "id": 256,
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T6_08_naWeb_sTitulkou.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 1082,
+      "after": "kritérium vyvratitelnosti"
+    },
+    {
+      "id": 258,
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T6_08_naWeb_sTitulkou.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 1219,
+      "after": "intelektuální; hédonismus"
+    },
+    {
+      "id": 315,
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T2.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 1970,
+      "after": "stereotypy v nahlížení na chlapce a dívky"
+    },
+    {
+      "id": 375,
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 1351,
+      "after": "přechodový rituál"
+    },
+    {
+      "id": 402,
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 42,
+      "option": "D",
+      "before_length": 1781,
+      "after": "Směrnice EU je právní předpis, který je po schválení Radou EU a Evropskou komisí okamžikem jeho zveřejnění právně závazný a všechny státy EU se jím od té doby musejí řídit."
+    },
+    {
+      "id": 435,
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T5.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 801,
+      "after": "Jedná se o úhrnnou rozvodovost."
+    },
+    {
+      "id": 497,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 1316,
+      "after": "Poznání, ke kterému dospíváme prostřednictvím experimentu."
+    },
+    {
+      "id": 540,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 210,
+      "after": "jen Miroslav a Edita"
+    },
+    {
+      "id": 554,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 845,
+      "after": "Jedná se o pravidlo nepřijatelnosti sňatku mezi osobami blízce příbuznými. Tento princip se označuje jako zákaz incestu."
+    },
+    {
+      "id": 557,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 1404,
+      "after": "Že čas není stejnorodý."
+    },
+    {
+      "id": 600,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 261,
+      "after": "Reforma změnila daňový základ pro výpočet přímých daní pro zaměstnance."
+    },
+    {
+      "id": 614,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 1011,
+      "after": "V České republice se za věřící považuje 15 % lidí."
+    },
+    {
+      "id": 617,
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 1254,
+      "after": "V jakém smyslu existuje minulost a budoucnost, když ani jedno v tuto chvíli neexistuje?"
+    },
+    {
+      "id": 676,
+      "source": "Kópia súboru ZSV_NSZ_2022_23_T2.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 832,
+      "after": "Měl bych dát žebrákovi jen malý kousek chleba, který chtěl. Každý by měl dostat to, co chce – v tom je spravedlnost."
+    },
+    {
+      "id": 727,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 7,
+      "option": "D",
+      "before_length": 55,
+      "after": "u grafomotoriky a hrubé motoriky"
+    },
+    {
+      "id": 733,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 13,
+      "option": "D",
+      "before_length": 113,
+      "after": "obvyklý případ sestupné vertikální mobility typické v minimálně stratifikované společnosti"
+    },
+    {
+      "id": 739,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 19,
+      "option": "D",
+      "before_length": 296,
+      "after": "Člověk byl stvořen jako obraz boží. Dostal od něj dar jazyka a privilegium pojmenovat zvířata. Podobá se mu svobodnou vůlí. Svoji svobodu však proti vůli boha zneužil a nechal se svést k prvotnímu hříchu. Odcizil se tak svému stvořiteli, za což platí daň svojí pozemskostí."
+    },
+    {
+      "id": 740,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 31,
+      "after": "verifikací bytí"
+    },
+    {
+      "id": 744,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 24,
+      "option": "D",
+      "before_length": 26,
+      "after": "v I. a II."
+    },
+    {
+      "id": 750,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 30,
+      "option": "D",
+      "before_length": 38,
+      "after": "subsidiární moc orgánu"
+    },
+    {
+      "id": 757,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 37,
+      "option": "D",
+      "before_length": 1101,
+      "after": "Odpověď není možné jednoznačně určit. V případě, že bylo v pracovní smlouvě domluveno, že nárok na odstupné nevzniká za žádných okolností, nemá na něj paní Vodičková nárok."
+    },
+    {
+      "id": 760,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 137,
+      "after": "I. Ne, neboť založit obchodní společnost je až do 21 let možné pouze se svolením rodičů. II. komanditní společnost"
+    },
+    {
+      "id": 767,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 47,
+      "option": "D",
+      "before_length": 50,
+      "after": "Radola Gajda – Henri Pétain"
+    },
+    {
+      "id": 772,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 52,
+      "option": "D",
+      "before_length": 1607,
+      "after": "Projevy sociální nespokojenosti řešily státní orgány stále častěji pomocí represivních zásahů. Množily se nejrůznější formy protestů, od polemik v tisku a v parlamentu přes hladové pochody a demonstrace až po stávky. Ty často přerůstaly ve srážky s policií a četnictvem, při nichž docházelo i ke ztrátám na lidských životech."
+    },
+    {
+      "id": 774,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 54,
+      "option": "D",
+      "before_length": 201,
+      "after": "Masové vyvražďování přibližně 1,5 milionu Arménů Turky během let 1915 a 1918 je podle některých názorů první historicky zaznamenanou a jednoznačně doloženou genocidou v dějinách."
+    },
+    {
+      "id": 787,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 7,
+      "option": "D",
+      "before_length": 33,
+      "after": "agorafobie"
+    },
+    {
+      "id": 795,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 15,
+      "option": "C",
+      "before_length": 34,
+      "after": "sakralizaci"
+    },
+    {
+      "id": 797,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 1080,
+      "after": "v Aristotelově nauce, podle níž existují jen jednotliviny, avšak v nich je přítomno i obecné"
+    },
+    {
+      "id": 800,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 30,
+      "after": "Gabriel Marcel"
+    },
+    {
+      "id": 806,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 26,
+      "option": "D",
+      "before_length": 175,
+      "after": "Prezident republiky Poslaneckou sněmovnu rozpustí, navrhne-li mu to Poslanecká sněmovna usnesením, s nímž vyslovila souhlas třípětinová většina všech poslanců."
+    },
+    {
+      "id": 812,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 32,
+      "option": "D",
+      "before_length": 29,
+      "after": "veřejné právo"
+    },
+    {
+      "id": 818,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 38,
+      "option": "D",
+      "before_length": 95,
+      "after": "Pracovní poměr neskončí, neboť zaměstnance nelze propustit z důvodu nesympatií."
+    },
+    {
+      "id": 820,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 39,
+      "after": "plná svéprávnost"
+    },
+    {
+      "id": 825,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 45,
+      "option": "D",
+      "before_length": 30,
+      "after": "2, 3, 5"
+    },
+    {
+      "id": 832,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 52,
+      "option": "D",
+      "before_length": 53,
+      "after": "s protektorátem Čechy a Morava"
+    },
+    {
+      "id": 837,
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 57,
+      "option": "D",
+      "before_length": 568,
+      "after": "Nižší sazba na daň z přidané hodnoty (DPH) na sportovní vybavení a kulturní akce tak, aby byli lidé motivováni trávit více času sportem a kulturou."
+    },
+    {
+      "id": 844,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 5,
+      "option": "D",
+      "before_length": 47,
+      "after": "poslušnost vůči autoritě"
+    },
+    {
+      "id": 849,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 10,
+      "option": "D",
+      "before_length": 31,
+      "after": "adaptace"
+    },
+    {
+      "id": 855,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 1052,
+      "after": "To, co člověk přidává k dojmům, plynoucím ze zkušenosti, pomocí rozvažování, neodráží realitu pravdivě."
+    },
+    {
+      "id": 859,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 105,
+      "after": "Tvrzení je předpokladem morální teorie, jehož pravdivost se autor snaží v úryvku dokázat."
+    },
+    {
+      "id": 863,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 24,
+      "option": "D",
+      "before_length": 66,
+      "after": "Ministerstva pro lidská práva a rovné příležitosti"
+    },
+    {
+      "id": 869,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 30,
+      "option": "D",
+      "before_length": 125,
+      "after": "Výzkumy veřejného mínění dokládají, že voličům vadí především absence možnosti udělování preferenčních hlasů."
+    },
+    {
+      "id": 875,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 36,
+      "option": "D",
+      "before_length": 23,
+      "after": "úplatek"
+    },
+    {
+      "id": 879,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 71,
+      "after": "Zákon maximální délku zkušební doby nestanovuje."
+    },
+    {
+      "id": 884,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 45,
+      "option": "D",
+      "before_length": 133,
+      "after": "Velké finanční zatížení, které státům EU způsobily syrská uprchlická vlna a ekonomické důsledky jejího řešení."
+    },
+    {
+      "id": 888,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 49,
+      "option": "D",
+      "before_length": 234,
+      "after": "Vojska OSN byla do války zapojena rezolucí Valného shromáždění OSN. Nutný jednomyslný souhlas stálých členů RB OSN pro podobné vojenské aktivity byl v mezinárodním právu kodifikován až v důsledku Kubánské krize."
+    },
+    {
+      "id": 892,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 53,
+      "option": "D",
+      "before_length": 47,
+      "after": "v první polovině 90. let"
+    },
+    {
+      "id": 897,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 58,
+      "option": "D",
+      "before_length": 42,
+      "after": "Lucie, Radek a Ivan"
+    },
+    {
+      "id": 899,
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 332,
+      "after": "Protože veškeré disponibilní prostředky firma použila na výplatu mezd zaměstnancům a už jí nezbyly prostředky na úhradu dodavatelských faktur."
+    },
+    {
+      "id": 906,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 7,
+      "option": "D",
+      "before_length": 1142,
+      "after": "3. – 4. – 1. – 6. – 5. – 2."
+    },
+    {
+      "id": 909,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 10,
+      "option": "D",
+      "before_length": 41,
+      "after": "referenční skupina"
+    },
+    {
+      "id": 913,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 1169,
+      "after": "jako roli obětního beránka"
+    },
+    {
+      "id": 915,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 1522,
+      "after": "intuitivistický"
+    },
+    {
+      "id": 919,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 750,
+      "after": "Zábrany v našem nevědomí, které nedovolují pokračovat v moderním projektu, by měly být odstraněny pomocí psychoanalytické psychoterapie."
+    },
+    {
+      "id": 921,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 22,
+      "option": "D",
+      "before_length": 131,
+      "after": "společenství, v němž jedinec musí mít vždy na mysli, že je součástí většího celku, který má větší význam než on sám"
+    },
+    {
+      "id": 928,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 29,
+      "option": "D",
+      "before_length": 144,
+      "after": "Pan Jaroslav může volit a být volen do obecního zastupitelstva, volit a být volen do Evropského parlamentu, volit prezidenta ČR."
+    },
+    {
+      "id": 933,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 34,
+      "option": "D",
+      "before_length": 31,
+      "after": "soudní mediátor"
+    },
+    {
+      "id": 936,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 37,
+      "option": "D",
+      "before_length": 178,
+      "after": "Ani jedna z výše uvedených možností není správná. Jediným způsobem, jakým může pan Dobrák v souladu s právními předpisy získat trnky pana Siváka, je jejich koupě."
+    },
+    {
+      "id": 939,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 45,
+      "after": "údaje o délce dovolené"
+    },
+    {
+      "id": 947,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 48,
+      "option": "D",
+      "before_length": 51,
+      "after": "vstup Osmanské říše do války"
+    },
+    {
+      "id": 953,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 54,
+      "option": "D",
+      "before_length": 59,
+      "after": "Lech Walesa, bývalý prezident Polska"
+    },
+    {
+      "id": 959,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 506,
+      "after": "Všechny výše uvedené daně odvádět musí. Zdroje textu:  Úloha 6: zdroj: Šulová, Lenka. Raný psychický vývoj dítěte  Úlohy 15 a 16: vzhledem k povaze úlohy není zdroj uveden, upraveno  Úlohy 17–20: vzhledem k povaze úlohy není zdroj uveden, upraveno  Úloha 38: www.idnes.cz  Úloha 55: Český statistický úřad, 2023"
+    },
+    {
+      "id": 966,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 7,
+      "option": "D",
+      "before_length": 27,
+      "after": "Petr"
+    },
+    {
+      "id": 970,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 36,
+      "after": "svědomí herce"
+    },
+    {
+      "id": 973,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 84,
+      "after": "informace rozebírající trávení volného času jednotlivých žáků"
+    },
+    {
+      "id": 974,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 1837,
+      "after": "Věci jsou vždy vnímány v kontextu jejich okolí."
+    },
+    {
+      "id": 976,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 17,
+      "option": "D",
+      "before_length": 246,
+      "after": "Veškeré snahy popsat člověka jako nějaké „něco“ a přivlastnit si ho jako věc ukazují, že tato snaha neodpovídá tomu, jak se to s člověkem má doopravdy. Původnější než člověk jako věc je člověk jako bytí zahalené tajemstvím."
+    },
+    {
+      "id": 979,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 88,
+      "after": "Morální správnost a nesprávnost činu závisí výhradně na jeho důsledcích."
+    },
+    {
+      "id": 984,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 25,
+      "option": "D",
+      "before_length": 163,
+      "after": "Disident je někdo, kdo se prostě rozhodl pro povolání profesionálního nespokojence asi tak, jako se člověk rozhoduje, zda bude ševcem nebo kovářem."
+    },
+    {
+      "id": 987,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 28,
+      "option": "D",
+      "before_length": 1404,
+      "after": "obě komory Parlamentu ČR na společném zasedání"
+    },
+    {
+      "id": 992,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 33,
+      "option": "D",
+      "before_length": 46,
+      "after": "trest obecně prospěšných prací"
+    },
+    {
+      "id": 999,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 45,
+      "after": "efektivní peněžní oběh"
+    },
+    {
+      "id": 1007,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 48,
+      "option": "D",
+      "before_length": 49,
+      "after": "s frankistickým Španělskem"
+    },
+    {
+      "id": 1012,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 53,
+      "option": "D",
+      "before_length": 316,
+      "after": "Vláda požene s veškerou rozhodností před soud zrádce z řad bankovních, průmyslových a zemědělských magnátů, kteří za německé nadvlády pomáhali v bankovních, průmyslových, obchodních, zemědělských podnicích a hospodářských organizacích všeho druhu německému drancování a německému vedení války."
+    },
+    {
+      "id": 1017,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 58,
+      "option": "D",
+      "before_length": 34,
+      "after": "100 mil. Kč"
+    },
+    {
+      "id": 1019,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T3-A.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 714,
+      "after": "kvantitativní uvolňování měnové politiky Českou národní bankou"
+    },
+    {
+      "id": 1024,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 5,
+      "option": "D",
+      "before_length": 149,
+      "after": "Zrání je proces, který probíhá automaticky bez ohledu na prostředí, zatímco učení je zcela závislé na kvalitě podnětů z okolí."
+    },
+    {
+      "id": 1030,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 1014,
+      "after": "s násilnou resocializací"
+    },
+    {
+      "id": 1034,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 1002,
+      "after": "hloupost; tělesnost; smrtelnost"
+    },
+    {
+      "id": 1037,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 920,
+      "after": "Zdá se, že onen počátek vše objímá a řídí, jak tvrdí ti, kdo neuznávají jiné příčiny vedle neomezeného. A to je božské, neboť je nesmrtelné a nehynoucí, jak praví Anaximandros."
+    },
+    {
+      "id": 1039,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 63,
+      "after": "Poznáváme jen to, co se nám bezprostředně jeví."
+    },
+    {
+      "id": 1041,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 22,
+      "option": "D",
+      "before_length": 965,
+      "after": "1C, 2B, 3A, 4E, 5D"
+    },
+    {
+      "id": 1043,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 24,
+      "option": "D",
+      "before_length": 98,
+      "after": "Existuje značné množství politických subjektů, ze kterých lze při volbách vybírat."
+    },
+    {
+      "id": 1050,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 31,
+      "option": "D",
+      "before_length": 38,
+      "after": "právo vlastnit majetek"
+    },
+    {
+      "id": 1057,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 38,
+      "option": "D",
+      "before_length": 46,
+      "after": "Jednání je absolutně neplatné."
+    },
+    {
+      "id": 1059,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 37,
+      "after": "1D, 2C, 3B, 4A"
+    },
+    {
+      "id": 1065,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 46,
+      "option": "D",
+      "before_length": 194,
+      "after": "Pracovní migranti ze zemí EU pracují za stejných podmínek jako tuzemští zaměstnanci pouze v zemích, které společně uzavřely mezivládní dohody upravující tuto problematiku."
+    },
+    {
+      "id": 1070,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 51,
+      "option": "D",
+      "before_length": 28,
+      "after": "Sokol"
+    },
+    {
+      "id": 1075,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 56,
+      "option": "D",
+      "before_length": 28,
+      "after": "sedlo"
+    },
+    {
+      "id": 1079,
+      "source": "ZSV_NSZ_2025_2026_T6_ZSV_A.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 1158,
+      "after": "peníze"
+    },
+    {
+      "id": 1085,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 6,
+      "option": "D",
+      "before_length": 104,
+      "after": "vytváření mylných přesvědčení o realitě, která nelze vyvrátit logickými argumenty"
+    },
+    {
+      "id": 1090,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 66,
+      "after": "vědomá snaha jedince zapadnout mezi ostatní"
+    },
+    {
+      "id": 1094,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 96,
+      "after": "Všudypřítomná změna je jedním ze základních rysů světa, ve kterém žijeme."
+    },
+    {
+      "id": 1097,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 941,
+      "after": "Společenská smlouva: morální a politické povinnosti jednotlivců vyplývají ze souhlasu s pravidly, která umožňují fungování společnosti."
+    },
+    {
+      "id": 1099,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 28,
+      "after": "absolutnosti"
+    },
+    {
+      "id": 1105,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 26,
+      "option": "D",
+      "before_length": 171,
+      "after": "Jedná se o druh veta náležejícího níže postaveným státním orgánům (např. krajským zastupitelstvům), které může být přehlasováno centrálními státními úřady."
+    },
+    {
+      "id": 1111,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 32,
+      "option": "D",
+      "before_length": 21,
+      "after": "Vláda"
+    },
+    {
+      "id": 1117,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 38,
+      "option": "D",
+      "before_length": 169,
+      "after": "Pan Spořil se kvůli finanční ztrátě své firmy rozhodl namísto podání výpovědi okamžitě písemně zrušit pracovní poměr svým dvěma dlouholetým zaměstnancům."
+    },
+    {
+      "id": 1119,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 85,
+      "after": "vykonávání dohledu nad dítětem odpovídající stupni jeho vývoje"
+    },
+    {
+      "id": 1126,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 47,
+      "option": "D",
+      "before_length": 39,
+      "after": "Phillipe Petaine"
+    },
+    {
+      "id": 1130,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 51,
+      "option": "D",
+      "before_length": 62,
+      "after": "Francie, Itálie, Spojené státy americké"
+    },
+    {
+      "id": 1135,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 56,
+      "option": "D",
+      "before_length": 46,
+      "after": "trh dokonalého monopolu"
+    },
+    {
+      "id": 1139,
+      "source": "ZSV_NSZ_2025_2026_T7.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 1115,
+      "after": "Q = 4"
+    },
+    {
+      "id": 1145,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 6,
+      "option": "D",
+      "before_length": 34,
+      "after": "logoterapii"
+    },
+    {
+      "id": 1149,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 10,
+      "option": "D",
+      "before_length": 33,
+      "after": "urbanizace"
+    },
+    {
+      "id": 1155,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 1841,
+      "after": "logu"
+    },
+    {
+      "id": 1158,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 19,
+      "option": "D",
+      "before_length": 54,
+      "after": "potvrzeny; potvrzení; potvrzuje"
+    },
+    {
+      "id": 1159,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 26,
+      "after": "metafyzika"
+    },
+    {
+      "id": 1171,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 33,
+      "option": "D",
+      "before_length": 65,
+      "after": "spolek jako samosprávný a dobrovolný svazek členů"
+    },
+    {
+      "id": 1176,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 38,
+      "option": "D",
+      "before_length": 31,
+      "after": "státní zástupce"
+    },
+    {
+      "id": 1178,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 125,
+      "after": "Rozsah práce prováděné na základě dohody o provedení práce musí být sjednán alespoň na 20 hodin týdně."
+    },
+    {
+      "id": 1183,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 45,
+      "option": "D",
+      "before_length": 131,
+      "after": "Zodpovídá za budování konsenzu mezi členskými státy EU ohledně priorit v zahraniční a bezpečnostní politice."
+    },
+    {
+      "id": 1188,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 50,
+      "option": "D",
+      "before_length": 117,
+      "after": "Z důvodu nedostatku spotřebního zboží byl peněžní styk částečně nahrazen potravinovými lístky."
+    },
+    {
+      "id": 1194,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 56,
+      "option": "D",
+      "before_length": 60,
+      "after": "hrubá mzda bude nižší než mzda čistá."
+    },
+    {
+      "id": 1198,
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-T4-A.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 510,
+      "after": "spuštění výrazné marketingové kampaně zaměřené na podporu prodeje daného produktu"
+    },
+    {
+      "id": 1203,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 5,
+      "option": "D",
+      "before_length": 176,
+      "after": "Agrese obvykle vzniká jako reakce na situaci, v níž člověk prožívá oddálení nebo zmaření cíle. Jedná se tedy o stav, který je označován pojmem frustrace."
+    },
+    {
+      "id": 1205,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 7,
+      "option": "D",
+      "before_length": 1350,
+      "after": "zapamatování"
+    },
+    {
+      "id": 1212,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 15,
+      "option": "D",
+      "before_length": 1282,
+      "after": "relativistická teorie pravdy"
+    },
+    {
+      "id": 1216,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 28,
+      "after": "antropologie"
+    },
+    {
+      "id": 1222,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 26,
+      "option": "D",
+      "before_length": 254,
+      "after": "Text reprezentuje konzervatismus, protože hájí pragmatismus v přesvědčení, že společenské instituce se vyvinuly jako účelně zaměřené způsoby chování. Z tohoto hlediska by jejich změna znamenala nežádoucí důsledky pro fungující společnost."
+    },
+    {
+      "id": 1228,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 32,
+      "option": "D",
+      "before_length": 30,
+      "after": "1B; 2A; 3D; 4C"
+    },
+    {
+      "id": 1233,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 37,
+      "option": "D",
+      "before_length": 31,
+      "after": "odpuštění dluhů"
+    },
+    {
+      "id": 1236,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 36,
+      "after": "domácí vězení"
+    },
+    {
+      "id": 1240,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 43,
+      "option": "D",
+      "before_length": 148,
+      "after": "Vyslání vojenských jednotek podléhá právu jednotlivých zemí, a bude se tedy řídit postupem uvedeným v Ústavě České republiky."
+    },
+    {
+      "id": 1244,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 48,
+      "option": "D",
+      "before_length": 171,
+      "after": "se zde prodávají produkty, jež nejsou v rozporu s křesťanskou morálkou (např. příliš vyzývavé oděvy, volnomyšlenkářská literatura, prezervativy aj.)"
+    },
+    {
+      "id": 1248,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 52,
+      "option": "D",
+      "before_length": 30,
+      "after": "Bosňáci"
+    },
+    {
+      "id": 1249,
+      "source": "Kópia súboru ZSV-NSZ-II.pdf",
+      "question": 53,
+      "option": "D",
+      "before_length": 144,
+      "after": "Jimmyho Cartera; karikatura poukazuje na prohlubující se skandál v souvislosti s aférou Watergate (zdroj: Reportér, 1968)"
+    },
+    {
+      "id": 1262,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 6,
+      "option": "D",
+      "before_length": 41,
+      "after": "v mladé dospělosti"
+    },
+    {
+      "id": 1267,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 35,
+      "after": "pozitivismus"
+    },
+    {
+      "id": 1269,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 13,
+      "option": "D",
+      "before_length": 941,
+      "after": "sociální instituce"
+    },
+    {
+      "id": 1273,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 4,
+      "option": "D",
+      "before_length": 936,
+      "after": "všechny"
+    },
+    {
+      "id": 1276,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 20,
+      "option": "D",
+      "before_length": 123,
+      "after": "K osamělému životu, který jediný je schopen zaručit poznání skutečného jsoucna bez zprostředkování druhých."
+    },
+    {
+      "id": 1282,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 26,
+      "option": "D",
+      "before_length": 22,
+      "after": "o Číně"
+    },
+    {
+      "id": 1287,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 31,
+      "option": "D",
+      "before_length": 46,
+      "after": "použije se mezinárodní smlouva"
+    },
+    {
+      "id": 1292,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 4,
+      "option": "D",
+      "before_length": 23,
+      "after": "všechny"
+    },
+    {
+      "id": 1296,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 40,
+      "option": "D",
+      "before_length": 50,
+      "after": "veřejná obchodní společnost"
+    },
+    {
+      "id": 1303,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 47,
+      "option": "D",
+      "before_length": 50,
+      "after": "rakousko-uherské sjednocení"
+    },
+    {
+      "id": 1308,
+      "source": "Kópia súboru ZSV3.pdf",
+      "question": 52,
+      "option": "D",
+      "before_length": 167,
+      "after": "1) ropné embargo ze strany SSSR poté, co Západ kritizoval srpnovou invazi do ČSSR; 2) pokles produkce ropy v důsledku války mezi Irákem a Íránem"
+    },
+    {
+      "id": 1324,
+      "source": "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+      "question": 9,
+      "option": "D",
+      "before_length": 859,
+      "after": "Dcera učitelky učí na jiné základní škole než její matka."
+    },
+    {
+      "id": 1331,
+      "source": "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+      "question": 16,
+      "option": "D",
+      "before_length": 1240,
+      "after": "1B, 2A, 3D, 4C 4"
+    },
+    {
+      "id": 1333,
+      "source": "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 993,
+      "after": "jen 1., 3. a 4."
+    },
+    {
+      "id": 1375,
+      "source": "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 710,
+      "after": "důsledky vedlejší činnosti"
+    },
+    {
+      "id": 1386,
+      "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+      "question": 11,
+      "option": "D",
+      "before_length": 767,
+      "after": "Ludvík zažil rebelii, což je v textu vyjádřeno vzpourou spočívající v odmítnutí společenských cílů i prostředků k jejich dosažení. 3"
+    },
+    {
+      "id": 1389,
+      "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+      "question": 14,
+      "option": "D",
+      "before_length": 389,
+      "after": "Sociální praktiky jsou neustále ověřovány a přetvářeny ve světle nových informací."
+    },
+    {
+      "id": 1393,
+      "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+      "question": 18,
+      "option": "D",
+      "before_length": 1114,
+      "after": "Obecný pojem pes je pouze jméno (nomen), kterým označujeme skupinu podobných jednotlivin, ale neodpovídá mu žádné reálně existující obecné jsoucno."
+    },
+    {
+      "id": 1435,
+      "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+      "question": 60,
+      "option": "D",
+      "before_length": 722,
+      "after": "prodej části výrobního závodu"
+    }
+  ]
+}

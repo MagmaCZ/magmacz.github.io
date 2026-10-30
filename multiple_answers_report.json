@@ -1,0 +1,145 @@
+[
+  {
+    "id": 33,
+    "source": "Kópia súboru ZSV1.pdf",
+    "question": 33,
+    "accepted_answers": [
+      "B",
+      "D"
+    ],
+    "options": {
+      "B": "Národní kontrolní úřad",
+      "D": "zákaz trestu smrti"
+    }
+  },
+  {
+    "id": 466,
+    "source": "Kópia súboru ZSV_NSZ_2020_21_T5.pdf",
+    "question": 46,
+    "accepted_answers": [
+      "B",
+      "D"
+    ],
+    "options": {
+      "B": "všichni občané EU a cizinci s tzv. schengenským vízem",
+      "D": "občané ze zemí schengenského prostoru a cizinci s tzv. schengenským vízem"
+    }
+  },
+  {
+    "id": 538,
+    "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+    "question": 58,
+    "accepted_answers": [
+      "A",
+      "D"
+    ],
+    "options": {
+      "A": "Pan Horáček se rozhodl odjet s celou rodinou na týdenní dovolenou do Itálie, a vyměnil si proto 50 000 Kč za eura.",
+      "D": "Světová média informovala o nemalém množství případů, kdy technické problémy aut vyrobených v České republice zapříčinily automobilové nehody."
+    }
+  },
+  {
+    "id": 553,
+    "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+    "question": 13,
+    "accepted_answers": [
+      "A",
+      "C"
+    ],
+    "options": {
+      "A": "kapitalista – dělník",
+      "C": "starousedlík – přistěhovalec"
+    }
+  },
+  {
+    "id": 576,
+    "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+    "question": 36,
+    "accepted_answers": [
+      "B",
+      "D"
+    ],
+    "options": {
+      "B": "nález",
+      "D": "kupní smlouva"
+    }
+  },
+  {
+    "id": 604,
+    "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+    "question": 4,
+    "accepted_answers": [
+      "C",
+      "D"
+    ],
+    "options": {
+      "C": "mladá dospělost",
+      "D": "střední dospělost"
+    }
+  },
+  {
+    "id": 747,
+    "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+    "question": 27,
+    "accepted_answers": [
+      "B",
+      "C"
+    ],
+    "options": {
+      "B": "čtyřikrát",
+      "C": "pětkrát"
+    }
+  },
+  {
+    "id": 914,
+    "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+    "question": 15,
+    "accepted_answers": [
+      "A",
+      "B"
+    ],
+    "options": {
+      "A": "Každý jednotlivý člověk vytváří vlastní pojetí toho, co je správné a co nikoli. V situaci, kdy není určeno, co je správné, je člověk odpovědný pouze sám sobě.",
+      "B": "Člověk existuje autenticky tehdy, pokud přijímá odpovědnost za své jednání a zároveň nároky, které na něj klade zvnějšku nepopsatelná svoboda."
+    }
+  },
+  {
+    "id": 1228,
+    "source": "Kópia súboru ZSV-NSZ-II.pdf",
+    "question": 32,
+    "accepted_answers": [
+      "A",
+      "D"
+    ],
+    "options": {
+      "A": "1B; 2C; 3D; 4A",
+      "D": "1B; 2A; 3D; 4C 2. Stát a právo"
+    }
+  },
+  {
+    "id": 1410,
+    "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+    "question": 35,
+    "accepted_answers": [
+      "A",
+      "C"
+    ],
+    "options": {
+      "A": "vlastník",
+      "C": "neoprávněný držitel"
+    }
+  },
+  {
+    "id": 1431,
+    "source": "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf",
+    "question": 56,
+    "accepted_answers": [
+      "B",
+      "D"
+    ],
+    "options": {
+      "B": "monetarismus",
+      "D": "neoklasická teorie"
+    }
+  }
+]

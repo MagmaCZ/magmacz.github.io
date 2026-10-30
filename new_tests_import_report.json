@@ -1,0 +1,36 @@
+{
+  "tests_added": [
+    "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+    "ZSV_NSZ_2025_26_T5_ZSV_A-3.pdf"
+  ],
+  "questions_added": 120,
+  "visual_questions": 1,
+  "visual_audit": [
+    {
+      "source": "ZSV_NSZ_2025_26_T3_ZSV_A-2.pdf",
+      "question": 51,
+      "page": 10,
+      "answers": [
+        "B"
+      ],
+      "bold_scores": {
+        "A": 0.0392156862745098,
+        "B": 1.0,
+        "C": 0.03636363636363636,
+        "D": 0.13333333333333333
+      },
+      "pixels": [
+        651,
+        1065
+      ],
+      "sha256": "935dd0ce573ffc459dfa577baa6c35d289e13d3d49fa6fe53e0ebcc5b8242f66",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_found": true,
+        "3_crop_contains_number": true,
+        "4_dimensions": true,
+        "5_nonblank": true
+      }
+    }
+  ]
+}

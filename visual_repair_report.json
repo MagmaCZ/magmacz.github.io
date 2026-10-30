@@ -1,0 +1,1016 @@
+{
+  "attached_pdfs": 19,
+  "visual_questions_targeted": 42,
+  "visual_questions_rebuilt": 42,
+  "failures": [],
+  "audit": [
+    {
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T3_brezen.pdf",
+      "question": 46,
+      "id": 226,
+      "page": 10,
+      "clip": [
+        12.0,
+        369.5,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        986
+      ],
+      "sha256": "2231cbbfc3fa498eae5f2b6ef8b673e8cbfbcad847ff7eadacbbd33f3ac062a0",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T6_08_naWeb_sTitulkou.pdf",
+      "question": 25,
+      "id": 265,
+      "page": 6,
+      "clip": [
+        289.6,
+        498.8,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        701
+      ],
+      "sha256": "528713ffa5fcce02dced668ba4eb1c8f7a7d6e90e557f2387ce15d44b2e20613",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T2.pdf",
+      "question": 23,
+      "id": 323,
+      "page": 6,
+      "clip": [
+        289.6,
+        70.3,
+        583.2,
+        590.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "cd2b17bb10d761812896eb64ca53d98a7f68dd421f3acd7c0924fcabc77f837e",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T2.pdf",
+      "question": 41,
+      "id": 341,
+      "page": 11,
+      "clip": [
+        12.0,
+        211.9,
+        305.6,
+        731.9
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "d6e0d8e03a3dfb27750c5e76a48f07ea2cb5a1797d93b1237a0c6067d9a0aae1",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T2.pdf",
+      "question": 56,
+      "id": 356,
+      "page": 13,
+      "clip": [
+        289.6,
+        596.3,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        487
+      ],
+      "sha256": "23678740b65dcef234e6d19a007b3a9c533374c4086cb69d36cb1fee1be8e5af",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 3,
+      "id": 363,
+      "page": 2,
+      "clip": [
+        12.0,
+        663.2,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        339
+      ],
+      "sha256": "ea76610b227efd4462ee7e3b49bc057594fd8f10a5a5e7c7c93f518d6934697c",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 7,
+      "id": 367,
+      "page": 3,
+      "clip": [
+        12.0,
+        433.9,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        844
+      ],
+      "sha256": "c1d9d8fc198a3c03b971145358616c0544bff9acfdf4fca50a2e645ad37c5271",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 14,
+      "id": 374,
+      "page": 4,
+      "clip": [
+        289.6,
+        247.3,
+        583.2,
+        767.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "2198be0eca9b2f25a601b53993de8ea8aaeb0a9b54cf1996c7a2fc909969e40e",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T4.pdf",
+      "question": 41,
+      "id": 401,
+      "page": 13,
+      "clip": [
+        12.0,
+        58.1,
+        305.6,
+        578.1
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "1cc0f0668330823904c05a2bd6d3c579d05fc2a99f21ff3390ce42630d5204f9",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T5.pdf",
+      "question": 2,
+      "id": 422,
+      "page": 2,
+      "clip": [
+        12.0,
+        193.8,
+        305.6,
+        713.8
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "28ff6064d76bcd1be0c8739c6453bf82aac038e934b39fcff246626d342656bb",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T5.pdf",
+      "question": 15,
+      "id": 435,
+      "page": 5,
+      "clip": [
+        12.0,
+        211.3,
+        305.6,
+        594.7
+      ],
+      "pixels": [
+        647,
+        845
+      ],
+      "sha256": "ac5aa0a30620426cf4d31256714845a83aa8a007ea438ace7c26244c1d38b8b6",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2020_21_T5.pdf",
+      "question": 56,
+      "id": 476,
+      "page": 14,
+      "clip": [
+        12.0,
+        271.8,
+        305.6,
+        791.8
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "7089635a026fccc75df4b1d326809a3820e5601cf8eb7e518436c08c57bed0f2",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 33,
+      "id": 513,
+      "page": 8,
+      "clip": [
+        12.0,
+        586.7,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        508
+      ],
+      "sha256": "cb7f8232a51fc866a7521babaf1c5e0100e820b6302bb3a866f81de80d0d5bef",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 50,
+      "id": 530,
+      "page": 11,
+      "clip": [
+        12.0,
+        613.4,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        449
+      ],
+      "sha256": "5e9abe56ef000811b357540ee05b449ceef887454840677673839862fe591e9e",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 53,
+      "id": 533,
+      "page": 12,
+      "clip": [
+        12.0,
+        505.3,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        687
+      ],
+      "sha256": "bb73a3f0af4d58f479e6c687142fd96166e0e72f00514ff9703d7e1e4f3e953b",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 47,
+      "id": 587,
+      "page": 12,
+      "clip": [
+        12.0,
+        516.8,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        662
+      ],
+      "sha256": "9ede7fe632f53685e6f844ad55072b1d1fedacb4a2fd476080f86089687f59bb",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 53,
+      "id": 593,
+      "page": 13,
+      "clip": [
+        289.6,
+        378.1,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        967
+      ],
+      "sha256": "c4529302f5ccbe977a07dd100c6a1c1eac8dc1684fa275f496acf892635cd72c",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T4.pdf",
+      "question": 55,
+      "id": 595,
+      "page": 14,
+      "clip": [
+        12.0,
+        357.1,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        1013
+      ],
+      "sha256": "c059b7a15af8e3d8dd64a616b51a51c72987860e7c26cca88d9fbd6a0425b16f",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 2,
+      "id": 602,
+      "page": 2,
+      "clip": [
+        12.0,
+        263.3,
+        305.6,
+        459.1
+      ],
+      "pixels": [
+        647,
+        431
+      ],
+      "sha256": "143e05690aaaaae6526ba0b22d9f0762ea8404d92c2bd081c34565bc11dd7caf",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 11,
+      "id": 611,
+      "page": 4,
+      "clip": [
+        12.0,
+        295.3,
+        305.6,
+        496.3
+      ],
+      "pixels": [
+        647,
+        443
+      ],
+      "sha256": "60cf1cc8c77d93da433e95c8e15332ea62f96ef0c1843ddae81c402d35570463",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 14,
+      "id": 614,
+      "page": 5,
+      "clip": [
+        12.0,
+        352.3,
+        305.6,
+        596.2
+      ],
+      "pixels": [
+        647,
+        537
+      ],
+      "sha256": "e0aec82431a334b90da033b4c277b49356050fb44105dd88e3be6dfe9a66b187",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 27,
+      "id": 627,
+      "page": 9,
+      "clip": [
+        12.0,
+        628.3,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        416
+      ],
+      "sha256": "c2900f19e064b4a18d1de9cc1867144b9198cc8b8273a059d8ce08c8baa28443",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 52,
+      "id": 652,
+      "page": 13,
+      "clip": [
+        289.6,
+        485.6,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        730
+      ],
+      "sha256": "7bb66630d0f9998ad15b9763a59647beae0b633265d08cfcda0f76ed5166ac46",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_23_T2.pdf",
+      "question": 1,
+      "id": 661,
+      "page": 2,
+      "clip": [
+        12.0,
+        78.3,
+        305.6,
+        598.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "09d32b33e894d04fa27a70bdbc6314ae61b870bfc32750976e0705c3b28a05c7",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_23_T2.pdf",
+      "question": 2,
+      "id": 662,
+      "page": 2,
+      "clip": [
+        12.0,
+        265.3,
+        305.6,
+        785.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "ce4f1da952e442d9d68e6c3f81446a85b93d7a7328c23f996f94d6b94d3b98a5",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_23_T2.pdf",
+      "question": 53,
+      "id": 713,
+      "page": 2,
+      "clip": [
+        289.6,
+        178.3,
+        583.2,
+        698.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "4316174f0e524ed5f46d3cb90746a75c431c68e74c1efc6fb66e4f50d5bb8080",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 1,
+      "id": 721,
+      "page": 2,
+      "clip": [
+        12.0,
+        177.4,
+        305.6,
+        697.4
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "f0907a8ca6b0f5805671b87ccbb6d997058a02a961fc1e08f36b567f8e2ee502",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 23,
+      "id": 743,
+      "page": 6,
+      "clip": [
+        289.6,
+        85.7,
+        583.2,
+        605.7
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "fa6555041d6ded4217d214fd7c4b89b0f7add2646e3b93b087d38a6a2cfdc202",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 45,
+      "id": 765,
+      "page": 10,
+      "clip": [
+        289.6,
+        277.3,
+        583.2,
+        797.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "312507c49dc3cd58fb6dbf9028a6e192e17af491154613fab15688f0fae39264",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 47,
+      "id": 767,
+      "page": 10,
+      "clip": [
+        289.6,
+        637.8,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        395
+      ],
+      "sha256": "fbf10c8fd456ce661174c9b99aa83f17d8459dde6087bac0813954e47718dfad",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T2-unor.pdf",
+      "question": 60,
+      "id": 780,
+      "page": 13,
+      "clip": [
+        289.6,
+        478.3,
+        583.2,
+        817.0
+      ],
+      "pixels": [
+        647,
+        746
+      ],
+      "sha256": "16a061f462806fc3ae5b2a253dff22e1a282eab81ac7f3ab11ae7df1fbead68a",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 40,
+      "id": 820,
+      "page": 8,
+      "clip": [
+        12.0,
+        444.1,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        822
+      ],
+      "sha256": "01cc14afa49236030912a92e151e1cddaad23bc6c6f3d8d936b6be023e6f2d91",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 50,
+      "id": 889,
+      "page": 13,
+      "clip": [
+        12.0,
+        232.6,
+        305.6,
+        752.6
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "ef0708f73bb6fae1bb1a9b4c7d17cd787ef909affffcf0e5d2d87ee25def3c90",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2022-2023-T6.pdf",
+      "question": 59,
+      "id": 898,
+      "page": 15,
+      "clip": [
+        12.0,
+        287.8,
+        305.6,
+        807.8
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "cd1a872285965b318c4a9b26769e377911dfb0b6f982725ff8059cea47429104",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 13,
+      "id": 912,
+      "page": 4,
+      "clip": [
+        289.6,
+        76.3,
+        583.2,
+        596.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "c56536616d2d34f7777035c52f09d6675f0dc12a9e43f651eaae5df8b7d1527d",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2023-2024-A-T1-prosinec.pdf",
+      "question": 55,
+      "id": 954,
+      "page": 14,
+      "clip": [
+        12.0,
+        76.3,
+        305.6,
+        596.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "08fcc3b2a59cb87f4f6917b7fc80def41407e4315ae90322ba7612b8f0f6da8e",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_text_located": true,
+        "3_crop_contains_question": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T3_brezen.pdf",
+      "question": 2,
+      "id": 182,
+      "page": 5,
+      "clip": [
+        12.0,
+        44.2,
+        305.6,
+        564.2
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "c57aa3e1b5303444b7b34e5c4c7be9af0355d6a216a164a63d52402dc2fa908a",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2019_20_T3_brezen.pdf",
+      "question": 54,
+      "id": 234,
+      "page": 11,
+      "clip": [
+        289.6,
+        96.2,
+        583.2,
+        616.2
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "836502fbeceac8b37af692947cc623e2c71d4685c6adb22b550632ed39b8fad5",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_T3.pdf",
+      "question": 27,
+      "id": 507,
+      "page": 7,
+      "clip": [
+        12.0,
+        75.0,
+        305.6,
+        595.0
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "89944da0811e6b1171bb1ce226a24a66a699be404296d5f70bfe8056b8afdf96",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV_NSZ_2022_2023_prosinec_T1.pdf",
+      "question": 23,
+      "id": 623,
+      "page": 7,
+      "clip": [
+        289.6,
+        75.0,
+        583.2,
+        595.0
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "39f4a4f17d9b3df0a69d76f3227a1270e50a507f7eff195c7ab87af1378da645",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 3,
+      "id": 783,
+      "page": 2,
+      "clip": [
+        12.0,
+        470.3,
+        305.6,
+        817.0
+      ],
+      "pixels": [
+        647,
+        764
+      ],
+      "sha256": "c41afcf5737a292dc82aa1b227352ef5cf26cab48e2976b356b1fa499a7a51ef",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    },
+    {
+      "source": "Kópia súboru ZSV-NSZ-2019-20-T507.pdf",
+      "question": 56,
+      "id": 836,
+      "page": 7,
+      "clip": [
+        289.6,
+        203.3,
+        583.2,
+        723.3
+      ],
+      "pixels": [
+        647,
+        1145
+      ],
+      "sha256": "c9a3d8e980f5939d9e74a33475307617691debbf608acfa240273363d7ebf32b",
+      "checks": {
+        "1_source_pdf": true,
+        "2_question_number_located": true,
+        "3_number_inside_crop": true,
+        "4_image_dimensions": true,
+        "5_nonblank_visual": true
+      }
+    }
+  ]
+}

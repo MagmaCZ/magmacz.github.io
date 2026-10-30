@@ -1,0 +1,22 @@
+{
+  "source": "ZSV-NSZ-2024-2025-T1.pdf",
+  "questions_in_pdf": 60,
+  "added": 59,
+  "excluded": [
+    {
+      "question": 41,
+      "reason": "Na základě rozhodnutí NOK je úloha vyřazena."
+    }
+  ],
+  "visuals": [
+    {
+      "question": 60,
+      "page": 11,
+      "pixels": [
+        651,
+        1366
+      ],
+      "sha256": "dc430ed13b4eb46a02188a19a8ccee5224b1d46c4f9f1e7dc80003e6dccc12a0"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+:root{--bg:#dce8ee;--surface:#fff;--surface-2:#f4f8fa;--ink:#102a43;--muted:#526d82;--line:#c7d8e1;--brand:#08738b;--brand-dark:#05586a;--chip:#dff1f5;--ok:#16794b;--bad:#b42318;--shadow:0 18px 45px rgba(16,42,67,.14)}*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#d7e5eb 0,#edf4f7 45%,#dce8ee 100%);color:var(--ink);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;min-height:100vh}main{width:min(1100px,calc(100% - 32px));margin:32px auto 52px}header,.filters,article,.stats,.privacy{background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow)}header{border-radius:24px;padding:24px 28px;margin-bottom:18px;display:flex;justify-content:space-between;gap:24px;align-items:center}header small{color:var(--brand);font-weight:800;letter-spacing:.08em}h1{margin:2px 0 4px;font-size:clamp(28px,4vw,42px)}header p{margin:0;color:var(--muted)}#count{background:var(--chip);color:var(--brand-dark);padding:9px 14px;border-radius:999px;white-space:nowrap}.filters{border-radius:20px;padding:18px;display:grid;grid-template-columns:2fr 1.4fr 1.2fr .8fr auto;gap:12px;align-items:end;margin-bottom:18px}.filters label{font-weight:750;font-size:13px;color:#365369}.filters select{display:block;width:100%;margin-top:6px;background:#fff;color:var(--ink);border:2px solid #b8ccd6;border-radius:11px;padding:11px 34px 11px 12px;font:inherit;min-height:48px}.filters select:focus{outline:3px solid rgba(8,115,139,.18);border-color:var(--brand)}button{font:inherit;font-weight:750;border-radius:11px;border:1px solid transparent;padding:11px 18px;cursor:pointer}#start,#next{background:var(--brand);color:#fff;box-shadow:0 5px 13px rgba(8,115,139,.22)}#start:hover,#next:hover{background:var(--brand-dark)}button:disabled{opacity:.48;cursor:not-allowed}.status{display:flex;justify-content:space-between;padding:0 10px 8px;color:#365369;font-weight:650}progress{display:block;width:100%;height:9px;margin-bottom:17px;accent-color:var(--brand)}article{border-radius:26px;padding:32px 42px;margin-bottom:20px}.meta{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:23px}.meta span{background:var(--chip);color:#075e72;border:1px solid #c7e7ed;border-radius:999px;padding:7px 12px;font-size:14px}#questionBox,#passageBox,#supportBox{background:#fff;border:2px solid #d5e2e8;border-radius:18px;padding:24px 28px;margin:0 0 22px}#passageBox{background:#f1f7f9;border-left:5px solid #6ea9b7}.questionLabel,.passageLabel,.supportLabel,.answerLabel{font-size:12px;font-weight:850;letter-spacing:.11em;color:#3f6175;margin-bottom:12px}.questionText{font-size:21px;line-height:1.5}.questionText p,.passageText p{margin:0}.statement{display:flex;gap:10px;margin:8px 0}.statementNo{font-weight:800}.answerLabel{margin:28px 0 12px}#opts{display:grid;gap:12px}.opt{width:100%;display:flex;align-items:center;text-align:left;gap:14px;background:#fff;border:2px solid #d3e0e6;color:var(--ink);padding:14px 16px}.opt:hover{border-color:#69aebe;background:#f3fafb}.opt b{display:grid;place-items:center;min-width:34px;height:34px;border-radius:50%;background:#e2f2f5;color:#08738b}.opt.ok{border-color:#55a780;background:#eef9f3}.opt.bad{border-color:#db8078;background:#fff2f1}.opt.ok b{background:#d9f2e5;color:var(--ok)}.opt.bad b{background:#fde0dd;color:var(--bad)}#feedback{margin-top:17px;border-radius:12px;padding:13px 15px;background:#eef5f7;border:1px solid #bcd4dd}#next{display:block;margin:20px 0 0 auto;min-width:150px}#card{display:block;max-width:100%;max-height:650px;margin:auto;border-radius:10px}.stats{border-radius:18px;padding:17px 22px;display:flex;align-items:center;gap:24px;flex-wrap:wrap;margin-bottom:16px}.stats #reset{margin-left:auto;background:#fff;color:var(--bad);border:1px solid #d5e0e5}.privacy{border-radius:16px;padding:15px 18px;background:#e7f4f7;color:#365369;box-shadow:0 8px 24px rgba(16,42,67,.08)}footer{text-align:center;color:#647b8b;padding:25px 10px}.finish{text-align:center;padding:24px}.skip{position:absolute;left:-9999px}.skip:focus{left:12px;top:12px;z-index:99;background:#fff;padding:8px}@media(max-width:800px){main{width:min(100% - 18px,1100px);margin-top:12px}.filters{grid-template-columns:1fr 1fr}.filters #start{grid-column:1/-1}header{align-items:flex-start;flex-direction:column}article{padding:20px 16px}.questionText{font-size:18px}.stats{gap:12px}.stats #reset{margin-left:0;width:100%}}@media(max-width:520px){.filters{grid-template-columns:1fr}.filters #start{grid-column:auto}}
+
+/* Vice modre osobnosti, otazky nikdy tucne */
+body{background:linear-gradient(160deg,#d5edf5 0%,#eef7fa 36%,#e9f2f6 70%,#dce9ef 100%);background-attachment:fixed}
+header{background:linear-gradient(118deg,#084c68 0%,#08738b 55%,#1f92aa 100%);color:#fff;border:1px solid #176f86;border-bottom:5px solid #79cad8;box-shadow:0 16px 38px rgba(8,76,104,.22)}
+header small{color:#bceaf2}header h1{color:#fff}header p{color:#d8eef3}#count{background:#fff;color:#075f74;border:1px solid rgba(255,255,255,.65);font-weight:750}
+.filters{border-top:5px solid #1594aa;background:linear-gradient(180deg,#fff 0%,#f5fbfc 100%)}
+article{border-top:5px solid #1594aa;background:#fff}
+#questionBox{background:linear-gradient(135deg,#fff 0%,#f7fbfc 100%);border-color:#bcd4df}
+.questionLabel,.answerLabel{color:#076c82}.meta span{background:#dff3f7;border-color:#b8e0e8;color:#075f74}
+.opt{border-color:#c5d9e2}.opt:hover{border-color:#168da4;background:#edf9fb;box-shadow:0 4px 14px rgba(8,115,139,.10)}
+#start,#next{background:linear-gradient(135deg,#08738b,#1695ac)}
+.stats{border-left:5px solid #168da4}.privacy{background:linear-gradient(135deg,#dff3f7,#edf9fb);border-left:5px solid #168da4}
+progress{accent-color:#087f98}
+/* Veskery obsah zadani, pasazi i odpovedi normalnim rezem */
+#questionBox,#questionBox *,#passageBox,#passageBox *,#supportBox,#supportBox *,.questionText,.questionText *,.passageText,.passageText *,#opts .opt{font-weight:400!important}
+/* Jen technicke popisky a pismena A-D zustavaji vyrazne */
+.questionLabel,.passageLabel,.supportLabel,.answerLabel,#opts .opt b{font-weight:800!important}
+
+/* Jemny hover pouze pro tlacitko Vymazat vysledky */
+.stats #reset{transition:background-color .16s ease,color .16s ease,border-color .16s ease,box-shadow .16s ease,transform .16s ease}
+.stats #reset:hover{background:#fff3f2;color:#9f1c14;border-color:#e3a29d;box-shadow:0 5px 14px rgba(180,35,24,.12);transform:translateY(-1px)}
+.stats #reset:active{transform:translateY(0);box-shadow:none}
+
+/* Upravene pouze rozbalovaci nabidky ve filtrech */
+.filters select{appearance:none;-webkit-appearance:none;background-color:#fff;background-image:linear-gradient(45deg,transparent 50%,#08738b 50%),linear-gradient(135deg,#08738b 50%,transparent 50%);background-position:calc(100% - 17px) calc(50% - 2px),calc(100% - 12px) calc(50% - 2px);background-size:5px 5px,5px 5px;background-repeat:no-repeat;padding-right:36px;transition:border-color .16s ease,box-shadow .16s ease,background-color .16s ease}
+.filters select:hover{border-color:#80bac7;background-color:#fafdfe}.filters select:focus{border-color:#08738b;box-shadow:0 0 0 3px rgba(8,115,139,.11)}
+/* Vzhled tlacitka automatickeho prechodu podle puvodni verze */
+.auto-next-toggle {
+    position: fixed !important;
+    right: 20px !important;
+    bottom: 20px !important;
+    z-index: 1000 !important;
+    min-width: auto !important;
+    height: 36px !important;
+    padding: 0 16px !important;
+    border: 0 !important;
+    border-radius: 999px !important;
+    background: #0b8299 !important;
+    color: #fff !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    line-height: 36px !important;
+    text-align: center !important;
+    box-shadow: 0 4px 12px rgba(8, 76, 104, .18) !important;
+    cursor: pointer !important;
+    transform: none !important;
+}
+
+    .auto-next-toggle:hover {
+        background: #08738b !important;
+        box-shadow: 0 16px 38px rgba(8,76,104,.24) !important;
+        transform: none !important
+    }
+
+    .auto-next-toggle.active {
+        background: #0b8299 !important;
+        color: #fff !important;
+        border: 0 !important
+    }
+
+        .auto-next-toggle.active:hover {
+            background: #08738b !important
+        }
+
+@media(max-width:520px) {
+    .auto-next-toggle {
+        right: 12px !important;
+        bottom: 12px !important;
+        min-width: 220px !important;
+        height: 58px !important;
+        line-height: 58px !important;
+        font-size: 17px !important;
+        padding: 0 20px !important
+    }
+}
+
+/* Stav automatickeho preskakovani: vypnuto ma zretelne odlisnou barvu. */
+.auto-next-toggle:not(.active){background:#64748b!important;color:#fff!important;border-color:#64748b!important;box-shadow:0 4px 12px rgba(51,65,85,.20)!important}
+.auto-next-toggle:not(.active):hover{background:#526173!important;border-color:#526173!important}
+
+/* Vyraznejsi zobrazeni vyhodnoceni odpovedi. */
+#opts .opt.ok{background:#dff5e9!important;border:3px solid #168653!important;box-shadow:0 0 0 3px rgba(22,134,83,.10),0 7px 18px rgba(22,121,75,.12)!important;color:#0e5133!important}
+#opts .opt.ok b{background:#168653!important;color:#fff!important}
+#opts .opt.bad{background:#ffe5e2!important;border:3px solid #c9362b!important;box-shadow:0 0 0 3px rgba(201,54,43,.09),0 7px 18px rgba(180,35,24,.11)!important;color:#7f1d17!important}
+#opts .opt.bad b{background:#c9362b!important;color:#fff!important}
+
+/* Spolehlive rozliseni stavu tlacitka podle aria-pressed */
+#autoNextToggle[aria-pressed="false"]{background:#64748b!important;color:#fff!important;border:1px solid #64748b!important;box-shadow:0 4px 12px rgba(51,65,85,.20)!important}
+#autoNextToggle[aria-pressed="false"]:hover{background:#526173!important;border-color:#526173!important}
+#autoNextToggle[aria-pressed="true"]{background:#0b8299!important;color:#fff!important;border:1px solid #0b8299!important}
+#autoNextToggle[aria-pressed="true"]:hover{background:#08738b!important;border-color:#08738b!important}
